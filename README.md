@@ -36,7 +36,12 @@
 
 ## Module 3: Azure AI and ML Services Overview
 
+[Azure AI/ML Services Overview](https://learn.microsoft.com/en-us/azure/ai-services/what-are-ai-services)
+
+[Azure Machine Learning](https://learn.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-machine-learning?view=azureml-api-2)
+
+
 [Hands-on Labs](https://cloudthat.learnondemand.net/)
 
-Training Key: 5572E2683FB84640
+Training Key: #572E2683FB84640
 
