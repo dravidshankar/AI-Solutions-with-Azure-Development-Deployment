@@ -17,3 +17,11 @@
 [Introduction to Responsible AI and Ethics in Government Applications](https://www.elastic.co/blog/ai-government)
 
 [Hands-on Labs](https://drive.google.com/drive/folders/1a99kh4J-w4ccle_MfWQu7nQk384L5ttu?usp=sharing)
+
+## Module 2: Advanced Concepts of ML & Deep Learning
+
+[Hands-on Labs](https://drive.google.com/drive/folders/1uO0JvsaMD0Uu7LUBRfMKEciF5SWouzhN?usp=sharing)
+
+## Module 3: Module 3: Azure AI and ML Services Overview
+
+[Hands-on Labs](https://cloudthat.learnondemand.net/)
