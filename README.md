@@ -22,6 +22,20 @@
 
 [Hands-on Labs](https://drive.google.com/drive/folders/1uO0JvsaMD0Uu7LUBRfMKEciF5SWouzhN?usp=sharing)
 
+[Regression](https://learn.microsoft.com/en-us/training/modules/understand-regression-machine-learning/)
+
+[Classification](https://learn.microsoft.com/en-us/training/modules/understand-classification-machine-learning/)
+
+[Clustering](https://learn.microsoft.com/en-us/training/modules/train-evaluate-cluster-models/)
+
+[Neural Networks - DNN & CNN](https://learn.microsoft.com/en-us/training/modules/train-evaluate-deep-learn-models/)
+
+[RNN](https://www.ibm.com/think/topics/recurrent-neural-networks)
+
+
 ## Module 3: Azure AI and ML Services Overview
 
 [Hands-on Labs](https://cloudthat.learnondemand.net/)
+
+Training Key: 5572E2683FB84640
+
