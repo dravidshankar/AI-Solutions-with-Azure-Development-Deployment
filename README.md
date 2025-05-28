@@ -22,6 +22,6 @@
 
 [Hands-on Labs](https://drive.google.com/drive/folders/1uO0JvsaMD0Uu7LUBRfMKEciF5SWouzhN?usp=sharing)
 
-## Module 3: Module 3: Azure AI and ML Services Overview
+## Module 3: Azure AI and ML Services Overview
 
 [Hands-on Labs](https://cloudthat.learnondemand.net/)
