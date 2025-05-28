@@ -43,6 +43,8 @@
 [Hands-on Labs](https://drive.google.com/drive/folders/1uO0JvsaMD0Uu7LUBRfMKEciF5SWouzhN?usp=sharing)
 
 
+[Additional Lab Exercises](https://github.com/microsoftdocs/ml-basics)
+
 ## Module 3: Azure AI and ML Services Overview
 
 [Azure AI/ML Services Overview](https://learn.microsoft.com/en-us/azure/ai-services/what-are-ai-services)
