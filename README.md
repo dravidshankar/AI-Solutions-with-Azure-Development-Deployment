@@ -54,5 +54,4 @@
 
 Training Key: #572E2683FB84640
 
-[ML Designer Lab 3 Instructions](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02b-create-classification-model.html)
 
