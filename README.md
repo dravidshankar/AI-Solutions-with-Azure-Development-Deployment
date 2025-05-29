@@ -57,3 +57,9 @@
 Training Key: #572E2683FB84640
 
 
+## Module 4:
+
+[Course URL](https://learn.microsoft.com/training/courses/dp-100t01?WT.mc_id=ilt_partner_webpage_wwl&ocid=4428289#study-guide)
+
+
+[Achievement Code URL for Course Completion Badge](https://learn.microsoft.com/en-in/users/me/achievements?redeem=7VQ7VL&WT.mc_id=ilt_partner_webpage_wwl&ocid=4428289)
