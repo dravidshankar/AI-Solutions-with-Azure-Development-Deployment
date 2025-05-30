@@ -59,7 +59,7 @@ Training Key: #572E2683FB84640
 
 ## Module 4:
 
-[Course URL](https://learn.microsoft.com/training/courses/dp-100t01?WT.mc_id=ilt_partner_webpage_wwl&ocid=4428289#study-guide)
+[DP-100 Course URL](https://learn.microsoft.com/training/courses/dp-100t01?WT.mc_id=ilt_partner_webpage_wwl&ocid=4428289#study-guide)
 
 
 [Achievement Code URL for Course Completion Badge](https://learn.microsoft.com/en-in/users/me/achievements?redeem=7VQ7VL&WT.mc_id=ilt_partner_webpage_wwl&ocid=4428289)
@@ -70,8 +70,27 @@ Training Key: #572E2683FB84640
 
 ## Module 5:
 
+[AI-102 Course URL](https://learn.microsoft.com/en-us/training/courses/ai-102t00?WT.mc_id=ilt_partner_webpage_wwl&ocid=4428289#study-guide)
+
+[Achievement Code URL](https://learn.microsoft.com/en-us/users/me/achievements?redeem=K23623&WT.mc_id=ilt_partner_webpage_wwl&ocid=4428289)
+ 
+[AI-3016 Course URL](https://learn.microsoft.com/training/paths/create-custom-copilots-ai-studio/?WT.mc_id=ilt_partner_webpage_wwl&ocid=4428289#study-guide)
+
+[Achievement Code URL](https://learn.microsoft.com/en-in/users/me/achievements?redeem=J3273V&WT.mc_id=ilt_partner_webpage_wwl&ocid=4428289)
+
+
 ### Additional References
+
+
+[Hands-on Labs](https://cloudthat.learnondemand.net/)
+
+Training Key: #572E2683FB84640
+
 
 [DeepLearning.ai Resources](https://www.deeplearning.ai/resources/)
 
 [Intel Resources](https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/overview.html)
+
+# TRAINING FEEDBACK
+
+[Feedback Link](https://www.metricsthatmatter.com/url/u.aspx?D98554B80223498596)
