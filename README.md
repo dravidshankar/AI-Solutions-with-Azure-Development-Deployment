@@ -67,3 +67,11 @@ Training Key: #572E2683FB84640
 [Hands-on Labs](https://cloudthat.learnondemand.net/)
 
 Training Key: #572E2683FB84640
+
+## Module 5:
+
+### Additional References
+
+[DeepLearning.ai Resources](https://www.deeplearning.ai/resources/)
+
+[Intel Resources](https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/overview.html)
